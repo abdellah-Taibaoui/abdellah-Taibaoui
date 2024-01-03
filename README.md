@@ -12,7 +12,6 @@
 - 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**, **Optics**
 - 📫 Reach me: [linkedin.com/Taibaoui-Abdellah/](https://www.linkedin.com/in/abdellah-taibaoui-448039212/)
 - :email: Send me an email to abdellah.taibaoui@g.enp.edu.dz
-- 📝 Checkout my [Resume](./files/cv.pdf).
 
 ### My current stack
 <img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/postgresql.svg" alt="postgresql"> <img height="48" src="img/Linux.svg" alt="Linux"> <img height="48" src="img/aws.svg" alt="AWS"><img height="48" src="img/Git.svg" alt="Git">
