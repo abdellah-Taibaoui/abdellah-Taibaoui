@@ -1,12 +1,13 @@
-## Hi 👋, I'm a student at Ecole Nationale Polytechnique
+## Hi 👋, I'm a student at Paris Saclay university
 
 ### Now
-- :mag: Electronics student at Ecole Nationale Polytechnique
-- :fire: Interested in web scraping, data science and deep learning
+- :mag: artificial intelligence, machine vision student at Paris Saclay university
+- :mag: Computer engineer from Ecole Nationale Polytechnique
+- :fire: Interested in IA , computer vision and data science.
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
 
 ### Bio
-- 🏢 I'm currently Student at **Ecole Nationale Polytechnique**
+- 🏢 I'm currently Student at **université Paris saclay**
 - ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`,  `.md`, `.c` and `.cpp`
 - 🌱 Learning all about **Data science** and **Machine Learning**
 - 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**, **Optics**
