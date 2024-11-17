@@ -1,18 +1,18 @@
-## Hi 👋, I'm a student at Paris Saclay university
+## Hi 👋, I'm an AI engineering student at Paris-Saclay University, passionate about exploring both hardware 🤖 and software.
 
 ### Now
 - :mag: artificial intelligence, machine vision student at Paris Saclay university
-- :mag: Computer engineer from Ecole Nationale Polytechnique
+- :mag: Computer engineer from Ecole Nationale Polytechnique.
 - :fire: Interested in IA , computer vision and data science.
 - :calendar: Looking for contributing to python based open source projects and Machine Learning and Deep Learning competitions
 
 ### Bio
 - 🏢 I'm currently Student at **université Paris saclay**
 - ⚙️ I use daily: `.py`, `.sql`, `.ipynb`, `.json`,  `.md`, `.c` and `.cpp`
-- 🌱 Learning all about **Data science** and **Machine Learning**
+- 🌱 Learning all about  **Machine Learning** and **Data science**
 - 💬 Ping me about **Python**, **Web scraping**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Signal processing**, **Optics**
 - 📫 Reach me: [linkedin.com/Taibaoui-Abdellah/](https://www.linkedin.com/in/abdellah-taibaoui-448039212/)
-- :email: Send me an email to abdellah.taibaoui@g.enp.edu.dz
+- :email: Send me an email to taibaouiabdellah@gmail.com
 
 ### My current stack
 <img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/postgresql.svg" alt="postgresql"> <img height="48" src="img/Linux.svg" alt="Linux"> <img height="48" src="img/aws.svg" alt="AWS"><img height="48" src="img/Git.svg" alt="Git">
@@ -34,5 +34,5 @@
     <a href="https://web.facebook.com/abdou.taibaoui.7">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="mailto:abdellah.taibaoui@g.enp.edu.dz"> <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+    <a href="mailto:taibaouiabdellah@gmail.com"> <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
